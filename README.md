@@ -1,21 +1,22 @@
-Projet-4 : " Ma chouette Agence " (Projet Openclassrooms).
+<strong>Projet-4 : " Ma chouette Agence " (Projet Openclassrooms).</strong>
 
-Quatrième projet du parcours "Développeur web" chez OpenClassroom.
-L'objectif est d'optimiser un site web existant : Ma chouette agence.
-
-Mission :
-1 - Analyse de l’état actuel de SEO du site fourni.
-2 - Amélioration du SEO du site.
-3 - Comparaison des résultats.
+Quatrième projet du parcours "Développeur web" chez OpenClassroom.<br>
+L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
 
 
+<strong>Mission :</strong><br>
+1 - Analyse de l’état actuel de SEO du site fourni.<br>
+2 - Amélioration du SEO du site.<br>
+3 - Comparaison des résultats.<br>
 
 
 
-Compétences évaluées : <br>
+<strong>Compétences évaluées : </strong><br>
+
 - Écrire un code HTML et CSS maintenable.
 - Assurer l'accessibilité d'un site web.
 - Optimiser le référencement d'un site web.
 - Réaliser une recherche des bonnes pratiques en développement web.
 - Optimiser la taille et la vitesse d’un site web
 
+Accès au projet :
