@@ -1,4 +1,12 @@
-Mission : Optimiser un site existant " Ma chouette Agence"
+Projet-4 : " Ma chouette Agence " (Projet Openclassrooms).
+
+Quatrième projet du parcours "Développeur web" chez OpenClassroom.
+L'objectif est d'optimiser un site web existant : Ma chouette agence.
+
+Mission :
+1 - Analyse de l’état actuel de SEO du site fourni.
+2 - Amélioration du SEO du site.
+3 - Comparaison des résultats.
 
 
 
