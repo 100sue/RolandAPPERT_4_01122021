@@ -2,9 +2,11 @@
 
 Quatrième projet du parcours "Développeur web" chez OpenClassroom.<br>
 L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
-
+<br>
+<br>
 
 <strong>Mission :</strong><br>
+
 1 - Analyse de l’état actuel de SEO du site fourni.<br>
 2 - Amélioration du SEO du site.<br>
 3 - Comparaison des résultats.<br>
