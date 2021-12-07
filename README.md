@@ -38,63 +38,71 @@ Accès au projet : https://100sue.github.io/RolandAPPERT_4_01122021/
  Résultats initiaux :
 
 Sans modifications du code source originel.
-Scores lighthouse avant
+
+Scores lighthouse avant :
 
 Accueil mobile :
 
-    Performance: 56
-    Accessibilité: 84
-    Meilleures pratiques: 93
-    SEO: 78
+- Perfomance : 56
+- Accessibilité : 84
+- Meilleures pratiques : 93
+- SEO : 78
 
 Accueil ordinateur :
 
-    Performance: 91
-    Accessibilité: 81
-    Meilleures pratiques: 93
-    SEO: 90
+- Perfomance : 91
+- Accessibilité : 81
+- Meilleures pratiques : 93
+- SEO : 90
+
 
 Contact mobile :
 
-    Performance: 77
-    Accessibilité: 76
-    Meilleures pratiques: 93
-    SEO: 81
+- Perfomance : 77
+- Accessibilité : 76
+- Meilleures pratiques : 93
+- SEO : 81
+
 
 Contact ordinateur :
 
-    Performance: 98
-    Accessibilité: 76
-    Meilleures pratiques: 93
-    SEO: 90
+- Perfomance : 98
+- Accessibilité : 76
+- Meilleures pratiques : 93
+- SEO : 90
+
 
 Scores lighthouse après
 
 Accueil mobile :
 
-    Performance: 
-    Accessibilité: 
-    Meilleures pratiques: 
-    SEO: 
+- Perfomance : 
+- Accessibilité : 
+- Meilleures pratiques : 
+- SEO : 
+
 
 Accueil ordinateur :
 
-    Performance: 
-    Accessibilité: 
-    Meilleures pratiques: 
-    SEO: 
+- Perfomance : 
+- Accessibilité : 
+- Meilleures pratiques : 
+- SEO : 
 
 Contact mobile :
 
-    Performance: 
-    Accessibilité: 
-    Meilleures pratiques: 
-    SEO: 
+- Perfomance : 
+- Accessibilité : 
+- Meilleures pratiques : 
+- SEO : 
+
 
 Contact ordinateur :
 
-    Performance: 
-    Accessibilité: 
-    Meilleures pratiques: 
-    SEO: 
+- Perfomance : 
+- Accessibilité : 
+- Meilleures pratiques : 
+- SEO : 
+
+ 
 
