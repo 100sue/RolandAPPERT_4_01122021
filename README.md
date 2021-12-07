@@ -5,7 +5,7 @@ L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
 <br>
 
 ![la-chouette-agence-banniere](https://user-images.githubusercontent.com/90606431/145068517-844ed7f8-ef65-4400-8fb3-646da1078d01.jpg)
-<p align="center"> <img src=user-images.githubusercontent.com/90606431/145068517-844ed7f8-ef65-4400-8fb3-646da1078d01.jpg> </p>
+
 
 
 <br>
@@ -32,5 +32,6 @@ Accès au projet : https://100sue.github.io/RolandAPPERT_4_01122021/
 
 <br>
 
-
+<p align="center"> 
 ![logo](https://user-images.githubusercontent.com/90606431/145068736-ca5dc2dc-3ae9-4f9c-85b0-83086cb75c39.png)
+  </p>
