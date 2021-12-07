@@ -4,8 +4,9 @@ Quatrième projet du parcours "Développeur web" chez OpenClassroom.<br>
 L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
 <br>
 <br>
-![img] (https://user-images.githubusercontent.com/100sue/RolandAPPERT_4_01122021/img/la-chouette-agence-banniere.jpg) 
 
+![la-chouette-agence-banniere](https://user-images.githubusercontent.com/90606431/145068517-844ed7f8-ef65-4400-8fb3-646da1078d01.jpg)
+<br>
 <strong>Mission :</strong><br>
 
 1 - Analyse de l’état actuel de SEO du site fourni.<br>
@@ -26,3 +27,8 @@ L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
 <br>
 
 Accès au projet : https://100sue.github.io/RolandAPPERT_4_01122021/
+
+<br>
+
+
+![logo](https://user-images.githubusercontent.com/90606431/145068736-ca5dc2dc-3ae9-4f9c-85b0-83086cb75c39.png)
