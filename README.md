@@ -3,9 +3,9 @@
 Quatrième projet du parcours "Développeur web" chez OpenClassroom.<br>
 L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
 <br>
-<br>
 
 ![la-chouette-agence-banniere](https://user-images.githubusercontent.com/90606431/145068517-844ed7f8-ef65-4400-8fb3-646da1078d01.jpg)
+
 <br>
 <strong>Mission :</strong><br>
 
