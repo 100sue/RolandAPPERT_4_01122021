@@ -27,7 +27,13 @@ a:hover {
     z-index: 100000;
     background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+.taille-img {
+    height: 270px;
+    width: 270px;
+}
+.citation-directeur {
+    color: #000000;
+}
 .bloc {
     width: 100%;
     clear: both;
@@ -308,7 +314,7 @@ a:hover {
     display: inline;
 }
 
-.navbar-brand img[src$=svg] {
+.navbar-brand img[src$="svg"] {
     min-width: 100px;
 }
 
@@ -735,6 +741,7 @@ h4 {
 
 .white {
     color: #ffffff!important;
+    font-size: 16px;
 }
 .black {
     color: #000000 !important;
@@ -773,7 +780,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color:  #b45b32;
+    background-color:  #7b4328;
 }
 
 .tc-white {
@@ -781,7 +788,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background:  #b45b32;
+    background:  #7b4328;
     color: #ffffff!important;
 }
 
@@ -825,6 +832,23 @@ h4 {
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
+}
+
+.petite-description {
+    font-size: 16px;
+}
+
+.agence-description {
+    font-size: 23px;
+}
+
+.identite {
+    height: 40px;
+	width: 214px;
+}
+.identite2 {
+    height: 100px;
+    width: 100px;
 }
 
 @media (max-width: 1024px) {
