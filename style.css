@@ -11,7 +11,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+    outline: none !important;
 }
 
 a:hover {
@@ -75,10 +75,10 @@ a:hover {
 .bg-tr-edge,
 .bg-br-edge,
 .bg-repeat {
-    -webkit-background-size: auto!important;
-    -moz-background-size: auto!important;
-    -o-background-size: auto!important;
-    background-size: auto!important;
+    -webkit-background-size: auto !important;
+    -moz-background-size: auto !important;
+    -o-background-size: auto !important;
+    background-size: auto !important;
 }
 
 .bg-repeat {
@@ -109,11 +109,11 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255, 0.7);
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .d-bloc .icon-round,
@@ -121,11 +121,11 @@ a:hover {
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
 .d-bloc .icon-semi-rounded-b {
-    border-color: rgba(255, 255, 255, .9);
+    border-color: rgba(255, 255, 255, 0.9);
 }
 
 .d-bloc .divider-h span {
-    border-color: rgba(255, 255, 255, .2);
+    border-color: rgba(255, 255, 255, 0.2);
 }
 
 .d-bloc .a-btn,
@@ -142,7 +142,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, 0.6);
 }
 
 .d-bloc .a-btn:hover,
@@ -173,23 +173,23 @@ a:hover {
 }
 
 .d-bloc .panel {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 0.5);
 }
 
 .d-bloc .panel button:hover {
-    color: rgba(0, 0, 0, .7);
+    color: rgba(0, 0, 0, 0.7);
 }
 
 .d-bloc .panel icon {
-    border-color: rgba(0, 0, 0, .7);
+    border-color: rgba(0, 0, 0, 0.7);
 }
 
 .d-bloc .panel .divider-h span {
-    border-color: rgba(0, 0, 0, .1);
+    border-color: rgba(0, 0, 0, 0.1);
 }
 
 .d-bloc .panel .a-btn {
-    color: rgba(0, 0, 0, .6);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .d-bloc .panel .a-btn:hover {
@@ -198,18 +198,18 @@ a:hover {
 
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover {
-    color: rgba(0, 0, 0, .7);
-    border-color: rgba(0, 0, 0, .3);
+    color: rgba(0, 0, 0, 0.7);
+    border-color: rgba(0, 0, 0, 0.3);
 }
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 0.5);
 }
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
-    color: rgba(0, 0, 0, .7);
+    color: rgba(0, 0, 0, 0.7);
 }
 
 .l-bloc .icon-round,
@@ -217,12 +217,12 @@ a:hover {
 .l-bloc .icon-rounded,
 .l-bloc .icon-semi-rounded-a,
 .l-bloc .icon-semi-rounded-b {
-    border-color: rgba(0, 0, 0, .7);
+    border-color: rgba(0, 0, 0, 0.7);
 }
 
 .d-bloc .panel .divider-h span,
 .l-bloc .divider-h span {
-    border-color: rgba(0, 0, 0, .1);
+    border-color: rgba(0, 0, 0, 0.1);
 }
 
 .d-bloc .panel .a-btn,
@@ -240,7 +240,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -262,15 +262,15 @@ a:hover {
 }
 
 .l-bloc .navbar-toggle .icon-bar {
-    color: rgba(0, 0, 0, .6);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover,
 .l-bloc .btn-wire,
 .l-bloc .btn-wire:hover {
-    color: rgba(0, 0, 0, .7);
-    border-color: rgba(0, 0, 0, .3);
+    color: rgba(0, 0, 0, 0.7);
+    border-color: rgba(0, 0, 0, 0.3);
 }
 
 .voffset {
@@ -352,11 +352,11 @@ a:hover {
 }
 
 .navbar-toggle:hover {
-    background: transparent!important;
+    background: transparent !important;
 }
 
 .navbar-toggle .icon-bar {
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, 0.5);
     width: 26px;
 }
 
@@ -413,7 +413,7 @@ a:hover {
 }
 
 .nav > li > .dropdown a {
-    background: none!important;
+    background: none !important;
     display: block;
     padding: 14px 15px;
 }
@@ -440,7 +440,7 @@ nav .caret {
     border-top-color: transparent;
     border-right-color: transparent;
     border-bottom-color: transparent;
-    margin: 6px -5px 0 0!important;
+    margin: 6px -5px 0 0 !important;
     float: right;
 }
 
@@ -466,11 +466,11 @@ nav .caret {
 .btn-d:hover,
 .btn-d:focus {
     color: #fff;
-    background: rgba(0, 0, 0, .3);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 button {
-    outline: none!important;
+    outline: none !important;
 }
 
 .btn-rd {
@@ -478,22 +478,22 @@ button {
 }
 
 .btn-clean {
-    border: 1px solid rgba(0, 0, 0, .08);
-    border-bottom-color: rgba(0, 0, 0, .1);
-    text-shadow: 0 1px 0 rgba(0, 0, 1, .1);
-    box-shadow: 0 1px 3px rgba(0, 0, 1, .25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-bottom-color: rgba(0, 0, 0, 0.1);
+    text-shadow: 0 1px 0 rgba(0, 0, 1, 0.1);
+    box-shadow: 0 1px 3px rgba(0, 0, 1, 0.25), inset 0 1px 0 0 rgba(255, 255, 255, .15);
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 30px !important;
 }
 
 .icon-lg {
-    font-size: 60px!important;
+    font-size: 60px !important;
 }
 
 .sm-shadow {
-    text-shadow: 0 1px 2px rgba(0, 0, 0, .3);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 .panel-sq,
@@ -527,7 +527,7 @@ button {
     right: 20px;
     opacity: 0;
     z-index: 500;
-    transition: all .3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .scrollToTop span {
@@ -589,7 +589,7 @@ a[data-lightbox]:hover img {
 .lightbox-caption {
     padding: 20px;
     color: #fff;
-    background: rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, 0.5);
     position: absolute;
     left: 15px;
     right: 15px;
@@ -603,7 +603,7 @@ a[data-lightbox]:hover img {
     top: 20px;
     right: 20px;
     z-index: 20;
-    background: rgba(0, 0, 0, .5);
+    background: rgba(0, 0, 0, 0.5);
     border: none;
     line-height: 30px;
     padding: 0 9px 5px;
@@ -621,8 +621,8 @@ a[data-lightbox]:hover img {
 .prev-lightbox {
     font-size: 20px;
     color: rgba(255, 255, 255, .9);
-    background: rgba(0, 0, 0, .5);
-    transition: all .2s ease-in-out;
+    background: rgba(0, 0, 0, 0.5);
+    transition: all 0.2s ease-in-out;
     position: absolute;
     top: 45%;
     z-index: 1;
@@ -645,7 +645,7 @@ a[data-lightbox]:hover img {
 
 .snapshot-lb .lightbox-caption {
     padding: 0;
-    color: rgba(0, 0, 0, .5);
+    color: rgba(0, 0, 0, 0.5);
     background: none;
 }
 
@@ -661,7 +661,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757 !important;
 }
 
 .container {
@@ -698,7 +698,7 @@ a {
 
 .cta-hero {
     margin-top: 22px;
-    color: #ffffff!important;
+    color: #ffffff !important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -729,11 +729,11 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #333333 !important;
 }
 
 h4 {
-    color: #333333!important;
+    color: #333333 !important;
 }
 
 .icons {
@@ -771,7 +771,7 @@ h4 {
 
 .bold-link {
     font-weight: 900;
-    text-decoration: underline!important;
+    text-decoration: underline !important;
 }
 
 .bgc-white {
@@ -783,7 +783,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color:  #7b4328;
+    background-color:  #b45b32;
 }
 
 .tc-white {
@@ -791,7 +791,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background:  #7b4328;
+    background:  #b45b32;
     color: #ffffff !important;
 }
 
@@ -817,8 +817,8 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
-    border-color: #364577!important;
+    color: #364577 !important;
+    border-color: #364577 !important;
 }
 
 .bg-dots-bg {
@@ -933,7 +933,7 @@ h4 {
     }
     .navbar .nav {
         padding-top: 0;
-        border-top: 1px solid rgba(0, 0, 0, .2);
+        border-top: 1px solid rgba(0, 0, 0, 0.2);
         float: none!important;
     }
     .navbar.row {
@@ -948,28 +948,28 @@ h4 {
     }
     .nav > li {
         margin-top: 0;
-        border-bottom: 1px solid rgba(0, 0, 0, .1);
-        background: rgba(0, 0, 0, .05);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        background: rgba(0, 0, 0, 0.05);
         text-align: left;
         padding-left: 15px;
         width: 100%;
     }
     .nav > li:hover {
-        background: rgba(0, 0, 0, .08);
+        background: rgba(0, 0, 0, 0.08);
     }
     .dropdown .dropdown a .caret {
         float: none;
-        margin: 5px 0 0 10px!important;
+        margin: 5px 0 0 10px !important;
         border: 4px solid black;
         border-bottom-color: transparent;
         border-right-color: transparent;
         border-left-color: transparent;
     }
     #hero-bloc .navbar .nav {
-        background: rgba(0, 0, 0, .8);
+        background: rgba(0, 0, 0, 0.8);
     }
     #hero-bloc .navbar .nav a {
-        color: rgba(255, 255, 255, .6);
+        color: rgba(255, 255, 255, 0.6);
     }
     .hero {
         padding: 50px 0;
