@@ -1,6 +1,7 @@
-<strong>Projet-4 : " Ma chouette Agence " (Projet Openclassrooms).</strong>
+# Projet-4 : " Ma chouette Agence " (Projet Openclassrooms). #
 
-Quatrième projet du parcours "Développeur web" chez OpenClassroom.<br>
+<strong>Quatrième projet du parcours "Développeur web" chez OpenClassroom.</strong><br>
+
 L'objectif est d'optimiser un site web existant : Ma chouette agence.<br>
 <br>
 
@@ -132,5 +133,6 @@ Contact ordinateur :
 
 ![wave-apres-contact](https://user-images.githubusercontent.com/90606431/150758963-dbb02542-47ad-403b-a42d-f6e178640ffe.jpg)
 
+ <br>
 
-# Pour avoir accès au rapport d'optimisation complet : veuillez me contacter sur mon github. #
+<strong> Pour avoir accès au rapport d'optimisation complet : veuillez me contacter sur mon github. </strong><br>
