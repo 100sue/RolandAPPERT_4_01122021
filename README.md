@@ -1,4 +1,4 @@
-# Projet-4 : " Ma chouette Agence " (Projet Openclassrooms). #
+# Projet 4 : " Ma chouette Agence "  #
 
 <strong>Quatrième projet du parcours "Développeur web" chez OpenClassroom.</strong><br>
 
