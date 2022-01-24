@@ -78,7 +78,7 @@ Contact ordinateur :
 
 
 <br>
-Resultat wave, avant :
+<strong>Resultat wave, avant : </strong><br>
 
 ![wave-page-acceuil-avant-modification](https://user-images.githubusercontent.com/90606431/150758490-43c31b5a-1d30-46eb-a40c-4f7d9990c376.jpg)
 
@@ -125,8 +125,12 @@ Contact ordinateur :
 - SEO : 100
 
  <br>
-Resultat wave, après :
+ 
+<strong> Résultat wave, après : </strong><br>
+
 ![wave-apres-accueil](https://user-images.githubusercontent.com/90606431/150758921-c0ad6d19-7e34-4cfc-8313-3bccd02a3ff8.jpg)
 
 ![wave-apres-contact](https://user-images.githubusercontent.com/90606431/150758963-dbb02542-47ad-403b-a42d-f6e178640ffe.jpg)
 
+
+# Pour avoir accès au rapport d'optimisation complet : veuillez me contacter sur mon github. #
