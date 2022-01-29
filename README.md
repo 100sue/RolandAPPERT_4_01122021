@@ -136,3 +136,7 @@ Contact ordinateur :
  <br>
 
 <strong> Pour avoir accès au rapport d'optimisation complet : veuillez me contacter sur mon github. </strong><br>
+
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/150322976-c46776fa-6492-45ae-94e4-14eccd198d93.png"/>
+</p>
