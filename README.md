@@ -1,3 +1,8 @@
+<p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/151769677-b99dbf89-68f6-46b6-9f01-ace009ae7202.jpg" />
+</p>
+
+
 # Projet 4 : " Ma chouette Agence "  #
 
 <strong>Quatrième projet du parcours "Développeur web" chez OpenClassroom.</strong><br>
